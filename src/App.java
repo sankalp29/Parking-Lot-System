@@ -21,8 +21,6 @@ public class App {
 
         parkingLot.exitParking(vehicle1);
 
-        System.out.println("*********VEHICLE 1 HAS EXITED***********");
-
         parkingLot.exitParking(vehicle2);
 
         PaymentModeSelector.closeScanner();
